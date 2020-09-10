@@ -112,7 +112,7 @@ Image#3: Movie screen
 
 ## Features
 List of implemented features:
-* Read and create data operation from/to a 3rd party API
+* Create and read operations from/to a 3rd party API.
 * Search movies by original, translated, alternative names and titles. 
 
 List of improvements that could be done:
