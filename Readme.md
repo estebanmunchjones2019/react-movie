@@ -112,13 +112,13 @@ Image#3: Movie screen
 
 ## Features
 List of implemented features:
-* Create and read operations from/to a 3rd party API.
-* Search movies by original, translated, alternative names and titles. 
+* Consume data from an API
+* Search movies by original, translated, alternative names and titles
 
 List of improvements that could be done:
 
-* Clicking the home icon doesn't go back to the latest movies after a search.
-* Remove caching movies on localhost. The array of fetched movies from the API is stored on localhost, but when the API gets updated when more recent movies, the user still sees the old movies. 
+* Clicking the home icon doesn't go back to the latest movies after a search
+* Remove caching movies on localhost. The array of fetched movies from the API is stored on localhost, but when the API gets updated when more recent movies, the user still sees the old movies 
 
 
 
